@@ -1,0 +1,24 @@
+﻿body {
+}
+table, tr , td{
+    border:1px dashed red;
+}
+.madmah{
+        background-color:brown;
+}
+.tikshoret{
+    background-color:yellow;
+}
+.safrot{
+    background-color: lime;
+}
+.tanah{
+    background-color:teal;
+}
+.english{
+    background-color: purple;
+}
+.math{
+    background-color:antiquewhite;
+}
+
