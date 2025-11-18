@@ -69,6 +69,8 @@
   <ItemGroup>
     <Content Include="david2.html" />
     <Content Include="HtmlPage2.html" />
+    <Content Include="HtmlPage3.html" />
+    <Content Include="JavaScript.js" />
     <Content Include="photos\pasta basta.jpeg" />
     <Content Include="photos\ברדלס.jpeg" />
     <Content Include="StyleSheet1.css" />

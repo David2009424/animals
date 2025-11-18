@@ -1,24 +1,71 @@
 ﻿body {
-}
-table, tr , td{
-    border:1px dashed red;
-}
-.madmah{
-        background-color:brown;
-}
-.tikshoret{
-    background-color:yellow;
-}
-.safrot{
-    background-color: lime;
-}
-.tanah{
-    background-color:teal;
-}
-.english{
-    background-color: purple;
-}
-.math{
-    background-color:antiquewhite;
+    direction: rtl;
 }
 
+table {
+    border: 1px solid black;
+    margin: 0px auto;
+}
+
+th, td, tr {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+.title {
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.row1 {
+    background-color: #f7db05;
+    color: black;
+    font-family: 'Alef', sans-serif;
+}
+
+.num {
+    background-color: #f7db05;
+}
+
+.madmah {
+    background-color: #ff9999;
+}
+
+.ezr {
+    background-color: blue;
+}
+
+.tanah {
+    background-color: #fafa63;
+}
+
+.anglit {
+    background-color: #ccff99;
+}
+
+.matematika {
+    background-color: cyan;
+}
+
+.tikshoret {
+    background-color: indianred;
+}
+
+.habea {
+    background-color: greenyellow;
+}
+
+.sipur {
+    background-color: yellow;
+}
+
+.taba {
+    background-color: purple;
+}
+
+.hagan {
+    background-color: #ff99cc;
+}
