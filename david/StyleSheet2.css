@@ -1,71 +1,77 @@
 ﻿body {
     direction: rtl;
+    font-family: Arial, sans-serif;
 }
 
 table {
-    border: 1px solid black;
-    margin: 0px auto;
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 85%;
+    background: #ffffff;
 }
 
-th, td, tr {
-    border: 1px solid black;
+th, td {
+    border: 1px solid #333;
     padding: 10px;
-    text-align: left;
+    text-align: center;
 }
 
-.title {
-    color: blue;
-    font-style: italic;
+.header {
+    color: #1a4dc4;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 26px;
+    font-style: italic;
+    background: #eef3ff;
 }
 
-.row1 {
-    background-color: #f7db05;
-    color: black;
-    font-family: 'Alef', sans-serif;
+thead tr th {
+    background: #ffe55c;
+    color: #000;
 }
 
-.num {
-    background-color: #f7db05;
+.lesson-num {
+    background: #ffe55c;
+    font-weight: bold;
 }
 
-.madmah {
-    background-color: #ff9999;
+.subj-comp {
+    background: #ffb3b3;
 }
 
-.ezr {
-    background-color: blue;
+.subj-civ {
+    background: #5c7aff;
+    color: white;
 }
 
-.tanah {
-    background-color: #fafa63;
+.subj-bible {
+    background: #fff7a8;
 }
 
-.anglit {
-    background-color: #ccff99;
+.subj-eng {
+    background: #d4ffb4;
 }
 
-.matematika {
-    background-color: cyan;
+.subj-lit {
+    background: #fff5a2;
 }
 
-.tikshoret {
-    background-color: indianred;
+.subj-math {
+    background: #a9f5ff;
 }
 
-.habea {
-    background-color: greenyellow;
+.subj-media {
+    background: #ffb0c7;
 }
 
-.sipur {
-    background-color: yellow;
+.subj-express {
+    background: #d8ffb0;
 }
 
-.taba {
-    background-color: purple;
+.subj-taba {
+    background: #d7a8ff;
+    color: white;
 }
 
-.hagan {
-    background-color: #ff99cc;
+.subj-sport {
+    background: #b9fff3;
 }
