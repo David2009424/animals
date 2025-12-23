@@ -1,19 +1,40 @@
-﻿<!DOCTYPE html>
-<html>
+﻿<!--<!DOCTYPE html>
+<html lang="he">
 <head>
-    <meta charset="utf-8" />
-    <title></title>
+    <meta charset="UTF-8">
+    <title>מחשבון משחק</title>
 </head>
 <body>
-    <input type="text" size="20" id="num" />
-    <span> הקלד מספר שלם </span>
-    <input type="text" size="20" id="num2" />
-    <span> הקלד מספר שלם </span>
-    <input type="button" value="שלח" onclick="checkAsnwer();" />
 
+    <span>הקלד מספר שלם:</span>
+    <input type="text" id="userNumber">
 
+    <br><br>
 
+    <table border="1" cellpadding="10">
+        <tr>
+            <td>מספר 1</td>
+            <td><input id="num1" disabled></td>
+        </tr>
+        <tr>
+            <td>מספר 2</td>
+            <td><input id="num2" disabled></td>
+        </tr>
+        <tr>
+            <td>תוצאה</td>
+            <td><input id="result" disabled></td>
+        </tr>
+    </table>
 
-    <script src="mahshevon.js"></script>
+    <br>
+
+    <input type="button" value="הגרל מספרים חדשים" onclick="GenerateNumbers()">
+    <input type="button" value="בדוק" onclick="CheckResults()">
+
+    <br><br>
+
+    <span id="message"></span>
+
+    <script src="script.js"></script>
 </body>
-</html>
+</html>-->

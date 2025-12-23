@@ -1,14 +1,31 @@
-﻿function cheackAnswer() {
-    var num = parseInt(document.getElementById("num").value);
-    var num2 = parseInt(document.getElementById("num").value);
-    var solu = parseInt(document.getElementById("solu").value);
+﻿//function GenerateNumbers() {
+//    // ערכים רנדומליים בין 1 ל-10
+//    document.getElementById("num1").value =
+//        Math.floor(Math.random() * (10 - 1 + 1)) + 1;
 
-    if (num + num2 === solu) {
-        document.getElementById("result").innerHTML = "Correct";
-    }
-    else {
-        document.getElementById("result").innerHTML = "Incorrect";
-    }
+//    document.getElementById("num2").value =
+//        Math.floor(Math.random() * (10 - 1 + 1)) + 1;
 
-    alert(num2 + num);
-}
+//    // מחשב תוצאה
+//    let n1 = parseInt(document.getElementById("num1").value);
+//    let n2 = parseInt(document.getElementById("num2").value);
+
+//    document.getElementById("result").value = n1 + n2;
+
+//    document.getElementById("message").innerHTML = "";
+//}
+
+//function CheckResults() {
+//    CheckPlus();
+//}
+
+//function CheckPlus() {
+//    let userNum = parseInt(document.getElementById("userNumber").value);
+//    let correct = parseInt(document.getElementById("result").value);
+
+//    if (userNum === correct) {
+//        document.getElementById("message").innerHTML = "יפה מאוד!";
+//    } else {
+//        document.getElementById("message").innerHTML = "נסה שנית.";
+//    }
+//}
