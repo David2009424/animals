@@ -70,7 +70,6 @@
     <Content Include="ex22.js" />
     <Content Include="david2.html" />
     <Content Include="ex22.html" />
-    <Content Include="html mashevon.html" />
     <Content Include="1.html" />
     <Content Include="HtmlPage2.html" />
     <Content Include="HtmlPage3.html" />
@@ -79,7 +78,8 @@
     <Content Include="4.html" />
     <Content Include="5.html" />
     <Content Include="JavaScript.js" />
-    <Content Include="mahshevon.js" />
+    <Content Include="mashevon.js" />
+    <Content Include="mashveon.html" />
     <Content Include="photos\pasta basta.jpeg" />
     <Content Include="photos\ברדלס.jpeg" />
     <Content Include="photos\חץ.png" />
