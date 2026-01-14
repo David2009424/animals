@@ -1,11 +1,13 @@
-﻿alert("heli the queen");
-document.write("heli the queen"); 
+﻿alert("something");
+document.write("something");
+var num = prompt("הכנס מספר", 7)
+var num = parseInt(prompt("enter num"));
 var name = "david";
-document.write("hello" + "name");
+document.write("hello" + (name));
 var name = prompt("Enter your name:", "");
 document.write("hello " + "name");
 var age = prompt("Enter your age:", 0);
-document.write("age next yeat is " + "age"+1 );
+document.write("age next yeat is " + age+1 );
 var num1 = parseInt(prompt("Enter first number: "));
 var num2 = parseInt(prompt("Enter second number: "));
 document.write("</br>");
