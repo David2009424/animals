@@ -71,6 +71,8 @@
     <Content Include="ex22.html" />
     <Content Include="1.html" />
     <Content Include="ex22.js" />
+    <Content Include="ex23.html" />
+    <Content Include="ex23.js" />
     <Content Include="HtmlPage2.html" />
     <Content Include="javascriptpage.html" />
     <Content Include="2.html" />
