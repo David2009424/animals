@@ -82,11 +82,21 @@
     <Content Include="JavaScript.js" />
     <Content Include="mashevon.js" />
     <Content Include="mashveon.html" />
-    <Content Include="photos\1.jpg.jpeg" />
-    <Content Include="photos\2.jpg.jpeg" />
-    <Content Include="photos\pasta basta.jpeg" />
+    <Content Include="photos\1.jpeg" />
+    <Content Include="photos\2.jpeg" />
+    <Content Include="photos\3.jpeg" />
+    <Content Include="photos\projecthtml2.html" />
     <Content Include="photos\ברדלס.jpeg" />
     <Content Include="photos\חץ.png" />
+    <Content Include="project.css" />
+    <Content Include="project.js" />
+    <Content Include="project2.css" />
+    <Content Include="project2.js" />
+    <Content Include="projecthtml.html" />
+    <Content Include="projecthtml2.html" />
+    <Content Include="stylesheet3.css" />
+    <Content Include="test.html" />
+    <Content Include="test.js" />
     <Content Include="StyleSheet1.css" />
     <Content Include="StyleSheet2.css" />
     <Content Include="Web.config" />
@@ -95,9 +105,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
-    <Content Include="photos\אריה.jpeg" />
-    <Content Include="photos\אדם.jpeg" />
+    <None Include="test.config" />
+    <Content Include="photos\5.jpeg" />
+    <Content Include="photos\4.jpeg" />
     <Content Include="photos\לבלר.jpeg" />
     <Content Include="photos\פיל.jpeg" />
     <Content Include="photos\קוברה.jpeg" />

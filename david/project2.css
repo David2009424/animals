@@ -1,0 +1,41 @@
+﻿body {
+    background-color: #EDE9E6;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+}
+
+#start_screen {
+    text-align: center;
+}
+
+.menu {
+    padding: 200px;
+    border: 1px solid #3a3a3c;
+    border-radius: 8px;
+    background-color: #F7DD7D;
+}
+
+tavla {
+    collum count: 5;
+    background-color: #538d4e;
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+    #play:hover {
+        background-color: #6aaa64;
+    }
+
+.hidden {
+    display: none;
+}
